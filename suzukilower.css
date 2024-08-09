@@ -21,8 +21,10 @@ p {
     font-style: normal; 
     font-weight: normal; 
     text-decoration: none; 
-    font-size: 14px; margin:0pt;
+    font-size: 14px; margin:0px;
 }
+
+
 
 tr:nth-of-type(n) {
 
@@ -55,15 +57,21 @@ background-color: #A6A6A6;
 .tdhead {
      background:#FAEBAC;
      height: 2.2em;
-  align-items: center;
 }
 .tdsecond {
     background: #6FB7FF;
      height: 1.5em;
- 
+   
 }
 
+.phead{
+   padding-top: 10px;
+   
+}
 
+.psechead {
+   padding-top: 10px;
+}
 
 .s6 { color: black;
      font-family:Calibri, sans-serif; 
