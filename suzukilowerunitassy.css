@@ -27,7 +27,8 @@ p {
     font-style: normal; 
     font-weight: normal; 
     text-decoration: none; 
-    font-size: 14px; margin:0pt;
+    font-size: 1rem; 
+    margin:0px;
 }
 
 tr:nth-of-type(n) {
@@ -60,7 +61,7 @@ background-color: #A6A6A6;
 
 .tdhead {
      background:#FAEBAC;
-     height: 2.2em;
+     height: 2em;
 }
 .tdsecond {
     background: #6FB7FF;
@@ -93,8 +94,8 @@ background-color: #A6A6A6;
     font-style: normal; 
     font-weight: bold; 
     text-decoration: none;
-    text-indent: 0pt;
-    line-height: 7pt;
+    text-indent: 0px;
+    line-height: 7px;
  }
 .s10 { color: black; 
     font-family:Calibri, sans-serif; 
