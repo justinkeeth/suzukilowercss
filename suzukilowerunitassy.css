@@ -2,7 +2,7 @@
 td {
    border-style:solid;
    border-width:1px;
-   width: 10%;
+   width: 12%;
    background: white;
 }
 h1 {
@@ -32,6 +32,8 @@ tr:nth-of-type(n) {}
 table {
     border-collapse:collapse;
     width: 90%;
+    margin-left:2rem;
+
 }
 
 .thirdrowtdsmall {
