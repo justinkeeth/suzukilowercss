@@ -5,13 +5,11 @@ td {
    width: 10%;
    background: white;
 }
-
 h1 {
     text-align: center;
 }
 tr{
     height: 2rem;
-
 }
 
 .suzlogo {
@@ -29,18 +27,11 @@ p {
     text-decoration: none; 
     font-size: 1rem; 
 }
-
-tr:nth-of-type(n) {
-
-}
-
-
+tr:nth-of-type(n) {}
 
 table {
     border-collapse:collapse;
-    margin-left:2rem;
     width: 80%;
-
 }
 
 .trtall {
