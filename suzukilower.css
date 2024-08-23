@@ -15,7 +15,8 @@ p {
     font-family:Calibri, sans-serif; 
     font-style: normal; 
     font-weight: normal; 
-    font-size: 1rem; }
+    font-size: 1rem;
+margin: 0px;}
 tr:nth-of-type(n) {}
 table {
     border-collapse:collapse;
