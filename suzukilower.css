@@ -3,16 +3,11 @@ td {
    border-style:solid;
    border-width:1px;
    width: 10%;
-   background: #E6F9FF;
-}
+   background: #E6F9FF; }
 h1 {
-    text-align: center;
-}
+    text-align: center; }
 tr{
-    height: 2rem;
-
-}
-
+    height: 2rem; }
 
 p {
     text-align: center;
@@ -20,37 +15,19 @@ p {
     font-family:Calibri, sans-serif; 
     font-style: normal; 
     font-weight: normal; 
-    text-decoration: none; 
-    font-size: 1rem; 
-    margin:0px;
-}
-
-
-
-tr:nth-of-type(n) {
-
-}
-
-
-
+    font-size: 1rem; }
+tr:nth-of-type(n) {}
 table {
     border-collapse:collapse;
-    margin-left:31px;
+    margin-left:2rem;
     width: 80%;
 
 }
 
-.trtall {
-  height: 12px;
-}
 
  
 .thirdrowtdsmall {
-background-color: #A6A6A6;
-
-}
-
-
+background-color: #A6A6A6; }
 .tdthirdhead {
     background: #A6A6A6;
 }
@@ -62,11 +39,8 @@ background-color: #A6A6A6;
 }
 .tdsecond {
     background: #6FB7FF;
-     height: 1.5rem;
-   
-}
+     height: 1.5rem; }
 
- 
 .s7 { color: black; 
     font-family:Calibri, sans-serif; 
     font-style: normal; 
@@ -80,11 +54,7 @@ background-color: #A6A6A6;
 .s9 { color: black; 
     font-family:Calibri, sans-serif; 
     font-style: normal; 
-    font-weight: bold; 
-    text-decoration: none;
-   
-
- }
+    font-weight: bold; }
 .s10 { color: black; 
     font-family:Calibri, sans-serif; 
     font-style: normal; 
